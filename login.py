@@ -1,7 +1,3 @@
 login
 
-
-
-
-
 API
